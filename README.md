@@ -1,3 +1,7 @@
+> **Fork notice:** This is a fork of OpenAI's [openai-realtime-agents](https://github.com/openai/openai-agents-js) demo, kept here as a reference/learning project for realtime voice-agent patterns (chat-supervisor and sequential handoff). It is not original T24 Labs IP — see the upstream repo and MIT license for attribution. T24 Labs additions, if any, are noted in commit history.
+
+---
+
 # Realtime API Agents Demo
 
 This is a demonstration of more advanced patterns for voice agents, using the OpenAI Realtime API and the OpenAI Agents SDK. 
